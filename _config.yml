@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: Jonathan's Movie Reviews
 
 # Your name to show in the footer
-author: Some Person
+author: Jonathan Crase
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Welcome"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
